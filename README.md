@@ -1,1 +1,1 @@
-# html-css-rep
+Repository for html/css projects
